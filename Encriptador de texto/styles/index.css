@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.input{
+    display: flex;
+}
+
+.logo{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.inputText{
+    background-color: rgba(128, 128, 128, 0.296);
+    height: 40em;
+    width: 80em;
+}
+
+.alertText{
+    color: white;
+    padding-top: 1em;
+}
+
+.btnEnc{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 38em;
+}
+
+.cardEnc{
+    background-color:rgb(255, 255, 247);
+    text-align: center;
+}
+
+.img{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.textCard h2{
+    background-color:rgb(255, 255, 247);
+}
+
+.textCard p{
+    background-color:rgb(255, 255, 247);
+    padding-bottom: 0.5em;
+}
+
+.btnCopy{
+    margin-bottom: 0.5em;
+    background-color:rgb(255, 255, 247);
+}
+
+.txtEnc{
+    background-color:rgb(255, 255, 247);
+    border: none;
+}
